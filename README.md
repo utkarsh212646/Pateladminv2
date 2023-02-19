@@ -1,13 +1,13 @@
-# Alita_Robot
+# Patel Admin
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/DivideProjects/Alita_Robot?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/DivideProjects/Alita_Robot?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/DivideProjects/Alita_Robot?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/DivideProjects/Alita_Robot?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/DivideProjects/Alita_Robot?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/DivideProjects/Alita_Robot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DivideProjects/Alita_Robot&amp;title=Profile%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/jagug/pateladminv2?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/jagug/pateladminv2?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/jagug/pateladminv2?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/jagug/pateladminv2?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/jagug/pateladminv2?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/jagug/pateladminv2?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jagug/pateladminv2&amp;title=Profile%20Views" alt="Views">
 </p>
 
 <p align='center'>
@@ -17,9 +17,9 @@
   <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
-Alita is a Telegram Group managment bot made using **[Pyrogram](https://github.com/pyrogram/pyrogram) _async version_** and **[Python](https://python.org)**, which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+Patel Admin is a Telegram Group managment bot made using **[Pyrogram](https://github.com/pyrogram/pyrogram) _async version_** and **[Python](https://python.org)**, which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 
-**Alita's features over other bots:**
+**Patel's bot features over other bots:**
 - Modern
 - Fast
 - Fully asynchronous
@@ -27,17 +27,15 @@ Alita is a Telegram Group managment bot made using **[Pyrogram](https://github.c
 - Frequently updated
 - Multi Language Support
 
-Can be found on Telegram as [@Alita_Robot](https://t.me/Alita_Robot)
+Can be found on Telegram as [@pateladminbot](https://t.me/pateladminbot)
 </br>
 
-Alita is currently available in 1 Language as of now:
+Patel's bot is currently available in 1 Language as of now:
 - **US English**
 
 More languages can be managed in the _locales_ folder.
 
 We are still working on adding new languages.
-
-Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/project/alitarobot)
 
 ## Requirements
 - You need to have a *Mongo Database* (Cluster Preferred)
@@ -66,7 +64,7 @@ It really motivates me to continue this project further.
 
 - Install Python v3.7 or later from [Python's Website](https://python.org)
 - Install virtualenv using `python3 -m pip -U install virtualenv`.
-- **Fork** or Clone the project using `git clone https://github.com/DivideProjects/Alita_Robot.git`
+- **Fork** or Clone the project using `git clone https://github.com/jagug/pateladminv2.git`
 - Create Virtualenv using: `virtualenv venv`
 - Install the requirements using `python3 -m pip install -r requirements.txt`
 - Fill in all the variables in *Development* class, not *Config* class. **Sudo, Dev, Whitelist** users are optional!!
@@ -95,17 +93,12 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group!
 
 
 ## Special Thanks to
-- [AmanoTeam](https://github.com/AmanoTeam/) for [EduuRobot](https://github.com/AmanoTeam/EduuRobot) as that helped me make the translation engine.
-- [Dan](https://github.com/delivrance) for his [Pyrogram](https://github.com/pyrogram/pyrogram) library
-- [Paul Larsen](https://github.com/PaulSonOfLars) for his Original Marie Source Code.
-- Everyone else who inspired me to make this project, more names can be seen on commits!
-
-
+- [AlphaBots](https://t.me/TheAlphaBotz)
 ### Copyright & License
 
-* Copyright (C) 2020-2021 by [Divkix](https://github.com/Divkix) ❤️️
-* Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/DivideProjects/Alita_Robot/blob/master/LICENSE)
+* Copyright (C) 2020-2021 by [jagug](https://github.com/jagug) ❤️️
+* Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/jagug/Pateladminv2/blob/master/LICENSE)
 
 ## Powered By
 
-[![DivideProjects](https://img.shields.io/badge/Divide-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/DivideSupport)
+[![Alpha bots](https://img.shields.io/badge/alpha-bots-green?style=for-the-badge&logo=appveyor)](https://t.me/TheAlphaBotz)
