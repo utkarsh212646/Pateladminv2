@@ -14,17 +14,17 @@ class Config:
     BOT_TOKEN = config("BOT_TOKEN", default=None)
     APP_ID = int(config("APP_ID", default=None))
     API_HASH = config("API_HASH", default=None)
-    OWNER_ID = int(config("OWNER_ID", default=1198820588))
+    OWNER_ID = int(config("OWNER_ID", default=444384499))
     MESSAGE_DUMP = int(config("MESSAGE_DUMP", default=None))
     DEV_USERS = [int(i) for i in config("DEV_USERS", default="").split()]
     SUDO_USERS = [int(i) for i in config("SUDO_USERS", default="").split()]
     WHITELIST_USERS = [int(i) for i in config("WHITELIST_USERS", default="").split()]
     DB_URI = config("DB_URI", default="")
-    DB_NAME = config("DB_NAME", default="alita")
+    DB_NAME = config("DB_NAME", default="pateladmin")
     NO_LOAD = config("NO_LOAD", default="").split()
     PREFIX_HANDLER = config("PREFIX_HANDLER", default="/").split()
-    SUPPORT_GROUP = config("SUPPORT_GROUP", default="DivideSupport")
-    SUPPORT_CHANNEL = config("SUPPORT_CHANNEL", default="DivideProjects")
+    SUPPORT_GROUP = config("SUPPORT_GROUP", default="ptladmin")
+    SUPPORT_CHANNEL = config("SUPPORT_CHANNEL", default="thealphabotz")
     ENABLED_LOCALES = [str(i) for i in config("ENABLED_LOCALES", default="en").split()]
     WORKERS = int(config("WORKERS", default=16))
     BOT_USERNAME = ""
@@ -46,7 +46,7 @@ class Development:
     SUDO_USERS = []
     WHITELIST_USERS = []
     DB_URI = "mongodb_url"
-    DB_NAME = "alita"
+    DB_NAME = "pateladmin"
     NO_LOAD = []
     PREFIX_HANDLER = ["!", "/"]
     SUPPORT_GROUP = "SUPPORT_GROUP"
