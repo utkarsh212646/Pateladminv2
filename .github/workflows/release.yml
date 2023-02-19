@@ -11,7 +11,7 @@ on:
         required: true
 
 env:
-  ProjectName: alita_robot
+  ProjectName: pateladminv2
 
 jobs:
   # only run this step when the tag is not already created
