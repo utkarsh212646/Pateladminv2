@@ -1,7 +1,7 @@
 # Patel Admin
 
 <p align='center'>
-  <img src="https://img.shields.io/github/fork/jagug/pateladminv2?style=flat-square" alt="AboutOwner">
+  <img src="https://img.shields.io/github/fork/jagug/pateladminv2?style=flat-square" alt="Forks">
   <img src="https://img.shields.io/github/stars/jagug/pateladminv2?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/issues/jagug/pateladminv2?style=flat-square" alt="Issues">
   <img src="https://img.shields.io/github/license/jagug/pateladminv2?style=flat-square" alt="LICENSE">
